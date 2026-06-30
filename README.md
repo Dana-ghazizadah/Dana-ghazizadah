@@ -38,7 +38,7 @@ IDE & Workspace
 
 <p> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </p>
 📈 آمار و فعالیت‌ها | GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dana-ghazizadah&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" alt="Dana's GitHub Stats" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dana-ghazizadah&theme=react&hide_border=true&background=0D1117" alt="Dana's GitHub Streak" /> </div> <div align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dana-ghazizadah&layout=compact&theme=react&bg_color=0D1117&hide_border=true" alt="Top Languages" /> </div>
+<div align="center"> <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=Dana-ghazizadah&cc=0D1117&tc=58A6FF&ic=1F6FEB&bc=0D1117" alt="Dana's GitHub Stats" /> <img width="49%" src="https://streak-stats.demolab.com?user=Dana-ghazizadah&theme=react&hide_border=true&background=0D1117" alt="Dana's GitHub Streak" /> </div> <div align="center"> <img width="40%" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Dana-ghazizadah&layout=compact&langs_count=6&bg_color=0D1117&text_color=58A6FF" alt="Top Languages" /> </div>
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dana-ghazizadah&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" /> </div>
 📊 نمودار فعالیت | Activity Graph
