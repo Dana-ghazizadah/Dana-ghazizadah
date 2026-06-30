@@ -49,7 +49,7 @@ IDE & Workspace
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dana-ghazizadah&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" /> </div>
 🎯 اهداف سال 2026 | 2026 Goals
 text
-🌊 Data Engineering    ████████████░░░░░░░░  60% 
-☁️ Cloud Computing     ████████░░░░░░░░░░░░  40%
-🐳 Docker & K8s        ██████░░░░░░░░░░░░░░  30%
-🤖 MLOps Basics        ████░░░░░░░░░░░░░░░░  20%
+🌊 Data Engineering ████████████░░░░░░░░ 60%
+☁️ Cloud Computing ████████░░░░░░░░░░░░ 40%
+🐳 Docker & K8s ██████░░░░░░░░░░░░░░ 30%
+🤖 MLOps Basics ████░░░░░░░░░░░░░░░░ 20%
