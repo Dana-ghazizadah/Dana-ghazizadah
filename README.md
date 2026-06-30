@@ -2,7 +2,8 @@
 🔗 راه‌های ارتباطی | Connect With Me
 <div align="center">
 [Telegram](https://t.me/Danaghazizadah_official)
-[GitHub](https://github.com/Dana-ghazizadah)
+[TikTok](https://www.tiktok.com/@dana_ghazizadah)
+[YouTube](https://www.youtube.com/channel/UC3eADgzdY2b4tp4wb62_xbg)
 
 </div>
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -49,7 +50,7 @@ IDE & Workspace
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dana-ghazizadah&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" /> </div>
 🎯 اهداف سال 2026 | 2026 Goals
 text
-🌊 Data Engineering ████████████░░░░░░░░ 60%
-☁️ Cloud Computing ████████░░░░░░░░░░░░ 40%
-🐳 Docker & K8s ██████░░░░░░░░░░░░░░ 30%
-🤖 MLOps Basics ████░░░░░░░░░░░░░░░░ 20%
+🌊 Data Engineering    ████████████░░░░░░░░  60% 
+☁️ Cloud Computing     ████████░░░░░░░░░░░░  40%
+🐳 Docker & K8s        ██████░░░░░░░░░░░░░░  30%
+🤖 MLOps Basics        ████░░░░░░░░░░░░░░░░  20%
