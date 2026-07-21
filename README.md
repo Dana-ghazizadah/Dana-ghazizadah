@@ -132,15 +132,6 @@ I am currently **open to internships, freelance projects, and open-source collab
 </div>
 
 ---
-
-### 🏆 GitHub Trophies | افتخارات
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dana-ghazizadah&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
----
-
 ### 🌐 Let's Connect | راه‌های ارتباطی
 
 <div align="center">
