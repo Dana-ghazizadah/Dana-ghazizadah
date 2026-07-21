@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6A5ACD&height=260&section=header&text=Dana%20Ghazizadah&fontSize=60&fontColor=fff&fontAlignY=35&desc=Data%20Engineer%20%7C%20مهندس%20داده%20-%20Real-Time%20Pipelines&descAlignY=60&descSize=17&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=1000&lines=%3E+Hey%2C+I'm+Dana+%F0%9F%91%8B;>>+Computer+Engineering+%40+IAU+Shiraz;>>+I+Turn+Chaotic+Data+Into+Scalable+Systems;>>+Python+%7C+Spark+%7C+Kafka+%7C+Cloud+%3D+My+Stack;>>+در+مسیر+تبدیل+شدن+به+Data+Engineer+حرفه‌ای" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dana-ghazizadah&label=Profile%20Views&style=flat-square&color=8B5CF6" />
   <img src="https://img.shields.io/github/followers/Dana-ghazizadah?label=Followers&style=flat-square&color=8B5CF6" />
@@ -106,9 +102,6 @@ Currently **open to internships, freelance, and open-source collabs.**
 </a>
 
 <br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;ممنون+که+سر+زدی!" />
-<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6A5ACD&height=120&section=footer" />
 
 </div>
