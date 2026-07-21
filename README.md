@@ -87,20 +87,11 @@ I don't just code, I engineer **scalable, real-time data pipelines** that proces
 ### 📊 GitHub Analytics | آمار گیت‌هاب
 
 <div align="center">
-  <a href="https://github.com/Dana-ghazizadah">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dana-ghazizadah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&border_radius=12&cache_seconds=0" />
-  </a>
-  <a href="https://github.com/Dana-ghazizadah">
-    <img width="49%" src="https://streak-stats.demolab.com?user=Dana-ghazizadah&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border_radius=12" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dana-ghazizadah&theme=tokyonight" />
   <br>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dana-ghazizadah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8&border_radius=12&cache_seconds=0" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dana-ghazizadah&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dana-ghazizadah&theme=tokyonight" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dana-ghazizadah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
 ---
 
 ### 🎯 Roadmap 2026 | مسیر یادگیری
