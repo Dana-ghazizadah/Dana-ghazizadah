@@ -1,14 +1,17 @@
 <!-- Dana Ghazizadah | دانا قاضی زاده | Data Engineer 2026 -->
+<!-- Profile README - Final Stable Version - No Rate Limit -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6A5ACD&height=260&section=header&text=Dana%20Ghazizadah&fontSize=60&fontColor=fff&fontAlignY=35&desc=Data%20Engineer%20%7C%20مهندس%20داده%20-%20Real-Time%20Pipelines&descAlignY=60&descSize=17&animation=fadeIn" />
 </div>
 
+<!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dana-ghazizadah&label=Profile%20Views&style=flat-square&color=8B5CF6" />
   <img src="https://img.shields.io/github/followers/Dana-ghazizadah?label=Followers&style=flat-square&color=8B5CF6" />
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Shiraz-0D1117?style=flat-square&logo=googlemaps&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Location-Shiraz%20%F0%9F%87%AE%F0%9F%87%B7-0D1117?style=flat-square&logo=googlemaps&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Collab-0D1117?style=flat-square&logo=handshake&logoColor=8B5CF6" />
 </p>
 
 ---
@@ -20,31 +23,39 @@
 <td width="50%" valign="top">
 
 #### 🇺🇸 English
-I'm **Dana Ghazizadeh** — a Computer Engineering student who loves solving hard data problems.
+I'm **Dana Ghazizadeh** — Computer Engineering student at **IAU Shiraz**.
 
-**What I do:**
-- ⚡ Build **fault-tolerant ETL/ELT** pipelines
-- ☁️ Design **Cloud-Native** systems on AWS/GCP
-- 📊 Process **Big Data** in real-time with Spark & Kafka
+I am passionate about turning chaotic data into **scalable, fault-tolerant systems**.
 
-**Mission 2026:** Build pipelines that handle **millions of records/sec**.
+**What I Do:**
+- ⚡ Designing **ETL / ELT Pipelines** that never fail
+- ☁️ Building **Cloud-Native** architectures on AWS / GCP / Azure
+- 📊 Real-time **Big Data Processing** with Spark & Kafka
+- 🔧 Automating everything with Docker & Kubernetes
 
-Currently **open to internships, freelance, and open-source collabs.**
+**2026 Mission:**
+> Build data platforms that process **millions of records per second** with zero downtime.
+
+I am currently **open to internships, freelance projects, and open-source collaborations.**
 
 </td>
 <td width="50%" valign="top" dir="rtl">
 
 #### 🇮🇷 فارسی
-من **دانا قاضی‌زاده** هستم، دانشجوی مهندسی کامپیوتر، عاشق حل کردن چالش‌های سخت داده.
+من **دانا قاضی‌زاده** هستم، دانشجوی مهندسی کامپیوتر دانشگاه آزاد شیراز.
+
+عاشق تبدیل داده‌های بهم‌ریخته به **سیستم‌های مقیاس‌پذیر و بدون خطا** هستم.
 
 **تخصص من:**
-- ⚡ ساخت پایپ‌لاین‌های **ETL/ELT** بدون خطا
-- ☁️ طراحی سیستم‌های **ابری** روی AWS/GCP
-- 📊 پردازش **کلان‌داده** با Spark و Kafka
+- ⚡ طراحی پایپ‌لاین‌های **ETL / ELT** که هیچوقت از کار نمی‌افتند
+- ☁️ ساخت معماری‌های **ابری** روی AWS / GCP / Azure
+- 📊 پردازش **کلان‌داده** به صورت Real-time با Spark و Kafka
+- 🔧 خودکارسازی همه چیز با Docker و Kubernetes
 
-**ماموریت ۲۰۲۶:** ساخت پایپ‌لاین‌هایی که میلیون‌ها رکورد را در ثانیه پردازش کنند.
+**ماموریت ۲۰۲۶:**
+> ساخت پلتفرم‌هایی که میلیون‌ها رکورد را در ثانیه و بدون قطعی پردازش کنند.
 
-در حال حاضر **آماده کارآموزی، فریلنسری و همکاری در پروژه‌های متن‌باز هستم.**
+در حال حاضر **آماده کارآموزی، انجام پروژه‌های فریلنسری و همکاری در پروژه‌های متن‌باز هستم.**
 
 </td>
 </tr>
@@ -52,18 +63,54 @@ Currently **open to internships, freelance, and open-source collabs.**
 
 ---
 
+### ⚡ What I Do | حوزه کاری من
+
+<div align="center">
+
+| 🔧 Data Pipelines | ☁️ Cloud Native | 📊 Big Data Processing |
+| :---: | :---: | :---: |
+| Building fault-tolerant ETL/ELT | Deploying scalable systems with Docker & K8s | Real-time analytics with Spark & Kafka |
+| طراحی پایپ‌لاین‌های بدون خطا | دیپلوی سیستم‌های مقیاس‌پذیر | پردازش لحظه‌ای داده‌های حجیم |
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack | تکنولوژی‌ها
 
 <div align="center">
 
-#### Languages & Databases
-<img src="https://skillicons.dev/icons?i=python,sql,postgres,mysql,mongodb,redis&theme=dark&perline=6" />
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
 
-#### Big Data & Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=spark,kafka,hadoop,aws,gcp,azure,docker,kubernetes,linux,git&theme=dark&perline=10" />
+**Languages & Databases**
+<br>
+*زبان‌ها و دیتابیس*
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,sql,postgres,mysql,mongodb,redis&theme=dark" />
 
-#### Tools
-<img src="https://skillicons.dev/icons?i=bash,vscode,jupyter,github&theme=dark&perline=4" />
+</td>
+<td align="center" width="34%" valign="top">
+
+**Big Data & Cloud & DevOps**
+<br>
+*کلان‌داده و کلاد*
+<br><br>
+<img src="https://skillicons.dev/icons?i=spark,kafka,hadoop,aws,gcp,azure,docker,kubernetes&theme=dark" />
+
+</td>
+<td align="center" width="33%" valign="top">
+
+**Tools & OS**
+<br>
+*ابزارها*
+<br><br>
+<img src="https://skillicons.dev/icons?i=linux,git,bash,vscode,jupyter,github&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -71,23 +118,35 @@ Currently **open to internships, freelance, and open-source collabs.**
 
 ### 🎯 Roadmap 2026 | مسیر یادگیری
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-95%25-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker%20%26%20K8s-80%25-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-75%25-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud%20Native-70%25-0D1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kafka-60%25-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMOps-40%25-0D1117?style=for-the-badge" />
-</p>
+<div align="center">
+
+| Skill / مهارت | Progress | Level / سطح |
+| :--- | :--- | :--- |
+| **Apache Spark / اسپارک** | `██████████ 95%` | Expert / حرفه‌ای |
+| **Docker & Kubernetes / داکر و کوبرنتیز** | `████████░░ 80%` | Advanced / پیشرفته |
+| **Data Modeling / مدلسازی داده** | `███████░░░ 75%` | Advanced / پیشرفته |
+| **Cloud Architecture / معماری ابری** | `███████░░░ 70%` | Advanced / پیشرفته |
+| **Apache Kafka / کافکا** | `██████░░░░ 60%` | Intermediate / متوسط |
+| **LLMOps & Data for AI / هوش مصنوعی** | `████░░░░░░ 40%` | Learning / در حال یادگیری |
+
+</div>
 
 ---
 
-### 🌐 Let's Connect | ارتباط با من
+### 🏆 GitHub Trophies | افتخارات
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dana-ghazizadah&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" />
+</div>
+
+---
+
+### 🌐 Let's Connect | راه‌های ارتباطی
 
 <div align="center">
 
-**Got a cool data idea? Let's build it together!**<br>
-**یه ایده باحال داری؟ بیا با هم بسازیمش!**
+### Got a cool data idea? Let's build it together!
+### یه ایده باحال داری؟ بیا با هم بسازیمش!
 
 <br>
 
@@ -102,6 +161,7 @@ Currently **open to internships, freelance, and open-source collabs.**
 </a>
 
 <br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6A5ACD&height=120&section=footer" />
 
 </div>
