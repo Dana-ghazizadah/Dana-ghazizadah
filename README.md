@@ -1,23 +1,23 @@
 <!-- Dana Ghazizadah | دانا قاضی زاده | Data Engineer -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Dana%20Ghazizadah&fontSize=55&fontColor=fff&fontAlignY=35&desc=Data%20Engineer%20%7C%20مهندس%20داده&descAlignY=60&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:2DD4BF&height=230&section=header&text=Dana%20Ghazizadah&fontSize=55&fontColor=fff&fontAlignY=35&desc=Data%20Engineer%20%7C%20مهندس%20داده&descAlignY=60&descSize=18&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=950&lines=%3E+Hello%2C+I'm+Dana+%F0%9F%91%8B;>>+Computer+Engineering+%40+IAU+Shiraz;>>+I+Build+Real-Time+Pipelines+That+Scale;>>+Python+%2B+Spark+%2B+Kafka+%2B+Cloud+%3D+%E2%9D%A4;>>+در+مسیر+تبدیل+شدن+به+یک+Data+Engineer+حرفه‌ای;>>+Let's+Build+The+Future+Of+Data!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=950&lines=%3E+Hello%2C+I'm+Dana+%F0%9F%91%8B;>>+Computer+Engineering+%40+IAU+Shiraz;>>+I+Build+Real-Time+Pipelines+That+Scale;>>+Python+%2B+Spark+%2B+Kafka+%2B+Cloud+%3D+%E2%9D%A4;>>+در+مسیر+تبدیل+شدن+به+یک+Data+Engineer+حرفهای;>>+Let's+Build+The+Future+Of+Data!+%F0%9F%9A%80" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dana-ghazizadah&label=PROFILE+VIEWS&style=for-the-badge&color=8B5CF6&logo=eye&logoColor=white" />
   <img src="https://img.shields.io/github/followers/Dana-ghazizadah?label=FOLLOWERS&style=for-the-badge&color=101010&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-8B5CF6?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/FROM-Shiraz_🇮🇷-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/FROM-Shiraz_🇮🇷-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
 ---
 
-### 👨‍💻 About Me | درباره من
+### 👨💻 About Me | درباره من
 
 <table>
 <tr>
@@ -40,13 +40,13 @@ I don't just code, I engineer **scalable, real-time data pipelines** that proces
 #### 🇮🇷 فارسی
 من **دانا قاضی زاده** هستم، دانشجوی مهندسی کامپیوتر دانشگاه آزاد شیراز.
 
-**کد + سخت‌افزار + ورزش** = سبک زندگی من.
+**کد + سختافزار + ورزش** = سبک زندگی من.
 
-من فقط کدنویسی نمی‌کنم، من **پایپ‌لاین‌های داده مقیاس‌پذیر و Real-time** می‌سازم که میلیون‌ها رکورد را در ثانیه پردازش می‌کنند.
+من فقط کدنویسی نمیکنم، من **پایپلاینهای داده مقیاسپذیر و Real-time** میسازم که میلیونها رکورد را در ثانیه پردازش میکنند.
 
-**ماموریت ۲۰۲۶:** تبدیل شدن به یک مهندس داده حرفه‌ای و ساخت پلتفرم‌های ابری.
+**ماموریت ۲۰۲۶:** تبدیل شدن به یک مهندس داده حرفهای و ساخت پلتفرمهای ابری.
 
-**آماده همکاری** در پروژه‌های مهندسی داده و متن‌باز.
+**آماده همکاری** در پروژههای مهندسی داده و متنباز.
 
 </td>
 </tr>
@@ -56,45 +56,45 @@ I don't just code, I engineer **scalable, real-time data pipelines** that proces
 
 <div align="center">
 
-| 🔧 Data Pipelines | ☁️ Cloud Native | 📊 Big Data |
+| 🔧 Data Pipelines | ☁ Cloud Native | 📊 Big Data |
 | :---: | :---: | :---: |
-| Designing fault-tolerant ETL/ELT | **طراحی سیستم‌های ابری با Docker & K8s** | Processing with **Spark & Kafka** |
+| Designing fault-tolerant ETL/ELT | **طراحی سیستمهای ابری با Docker & K8s** | Processing with **Spark & Kafka** |
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack | تکنولوژی‌ها
+### 🛠 Tech Stack | تکنولوژیها
 
 <div align="center">
 
-**Core & Languages | زبان‌های اصلی**
+**Core & Languages | زبانهای اصلی**
 <br>
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,linux,git,bash&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,linux,git,bash&theme=dark" />
 
-**Big Data, Cloud & DevOps | کلان‌داده و کلاد**
+**Big Data, Cloud & DevOps | کلانداده و کلاد**
 <br>
-<img src="https://skillicons.dev/icons?i=spark,kafka,hadoop,aws,gcp,azure,docker,kubernetes&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=spark,kafka,hadoop,aws,gcp,azure,docker,kubernetes&theme=dark" />
 
 **Tools | ابزارها**
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb,redis,vscode,jupyter,github&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=mongodb,redis,vscode,jupyter,github&theme=dark" />
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics | آمار گیت‌هاب
+### 📊 GitHub Analytics | آمار گیتهاب
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dana-ghazizadah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&border_radius=12" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Dana-ghazizadah&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border_radius=12" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dana-ghazizadah&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border_radius=12" />
   <br>
   <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dana-ghazizadah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8&border_radius=12" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dana-ghazizadah&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dana-ghazizadah&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -104,7 +104,7 @@ I don't just code, I engineer **scalable, real-time data pipelines** that proces
 <div align="center">
 
 | Skill / مهارت | Progress | Level / سطح |
-| :--- | :---: | :--- |
+| :--- | :--- | :--- |
 | **Apache Spark / اسپارک** | `██████████ 95%` | Expert |
 | **Docker & K8s / داکر** | `████████░░ 80%` | Advanced |
 | **Data Modeling / مدلسازی** | `███████░░░ 75%` | Advanced |
@@ -116,12 +116,12 @@ I don't just code, I engineer **scalable, real-time data pipelines** that proces
 
 ---
 
-### 🌐 Let's Connect | راه‌های ارتباطی
+### 🌐 Let's Connect | راههای ارتباطی
 
 <div align="center">
   
 **Open to Data Engineering offers & collaborations!**<br>
-**برای همکاری در پروژه‌های Data Engineering و کارآموزی آماده‌ام!**
+**برای همکاری در پروژههای Data Engineering و کارآموزی آمادهام!**
 
   <br><br>
   <a href="https://t.me/dana_ghazizadah">
@@ -137,8 +137,9 @@ I don't just code, I engineer **scalable, real-time data pipelines** that proces
 
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;ممنون+که+سر+زدی!;Let's+Build+Amazing+Data+Systems!" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <!-- این عکس مار فقط بعد از فعال کردن اکشن زیر نمایش داده میشه -->
+  <img src="https://raw.githubusercontent.com/Dana-ghazizadah/Dana-ghazizadah/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;ممنون+که+سر+زدی!;Let's+Build+Amazing+Data+Systems!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:2DD4BF&height=120&section=footer" />
 </div>
