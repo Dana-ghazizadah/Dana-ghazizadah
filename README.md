@@ -73,17 +73,6 @@ Currently **open to internships, freelance, and open-source collabs.**
 
 ---
 
-### 🚀 Featured | نمونه کارها
-
-<div align="center">
-
-> برای اینکه پروفایلت حرفه‌ای بشه، 2 تا از ریپازیتوری‌هات رو Pin کن.
-> این بخش بعد از Pin کردن خودکار جذاب میشه.
-
-</div>
-
----
-
 ### 🎯 Roadmap 2026 | مسیر یادگیری
 
 <p align="center">
@@ -114,9 +103,6 @@ Currently **open to internships, freelance, and open-source collabs.**
 </a>
 <a href="https://www.tiktok.com/@dana_ghazizadah">
   <img src="https://img.shields.io/badge/TikTok-@dana__ghazizadah-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="mailto:dana@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
