@@ -1,7 +1,6 @@
 <!-- Dana Ghazizadah | دانا قاضی زاده | Data Engineer 2026 -->
 <!-- Profile README - Final Stable Version - No Rate Limit -->
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6A5ACD&height=260&section=header&text=Dana%20Ghazizadah&fontSize=60&fontColor=fff&fontAlignY=35&desc=Data%20Engineer%20%7C%20مهندس%20داده%20-%20Real-Time%20Pipelines&descAlignY=60&descSize=17&animation=fadeIn" />
 </div>
