@@ -1,5 +1,3 @@
-<!-- Dana Ghazizadah | دانا قاضی زاده | Data Engineer 2026 -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6A5ACD&height=260&section=header&text=Dana%20Ghazizadah&fontSize=60&fontColor=fff&fontAlignY=35&desc=Data%20Engineer%20%7C%20مهندس%20داده%20-%20Real-Time%20Pipelines&descAlignY=60&descSize=17&animation=fadeIn" />
 </div>
@@ -22,7 +20,6 @@
 
 #### 🇺🇸 English
 I'm **Dana Ghazizadeh** — Computer Engineering student at **IAU Shiraz**.
-
 I am passionate about turning chaotic data into **scalable, fault-tolerant systems**.
 
 **What I Do:**
@@ -41,7 +38,6 @@ I am currently **open to internships, freelance projects, and open-source collab
 
 #### 🇮🇷 فارسی
 من **دانا قاضیزاده** هستم، دانشجوی مهندسی کامپیوتر دانشگاه آزاد شیراز.
-
 عاشق تبدیل داده های بهم ریخته به **سیستم های مقیاس پذیر و بدون خطا** هستم.
 
 **تخصص من:**
@@ -61,96 +57,40 @@ I am currently **open to internships, freelance projects, and open-source collab
 
 ---
 
-### ⚡ What I Do | حوزه کاری من
-
-<div align="center">
-
-| 🔧 Data Pipelines | ☁ Cloud Native | 📊 Big Data Processing |
-| :---: | :---: | :---: |
-| Building fault-tolerant ETL/ELT | Deploying scalable systems with Docker & K8s | Real-time analytics with Spark & Kafka |
-| طراحی پایپلاین های بدون خطا | دیپلوی سیستم های مقیاس پذیر | پردازش لحظه ای داده های حجیم |
-
-</div>
-
----
-
 ### 🛠 Tech Stack | تکنولوژی ها
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-
-**Languages & Databases**
-<br>
-*زبان ها و دیتابیس*
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,sql,postgres,mysql,mongodb,redis&theme=dark" />
-
-</td>
-<td align="center" width="34%" valign="top">
-
-**Big Data & Cloud & DevOps**
-<br>
-*کلان داده و کلاد*
-<br><br>
-<img src="https://skillicons.dev/icons?i=spark,kafka,hadoop,aws,gcp,azure,docker,kubernetes&theme=dark" />
-
-</td>
-<td align="center" width="33%" valign="top">
-
-**Tools & OS**
-<br>
-*ابزارها*
-<br><br>
-<img src="https://skillicons.dev/icons?i=linux,git,bash,vscode,jupyter,github&theme=dark" />
-
-</td>
-</tr>
-</table>
+| **Languages & Databases** | **Big Data & Cloud** | **Tools & OS** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,sql,postgres,mysql,mongodb,redis&theme=dark" /> | <img src="https://skillicons.dev/icons?i=spark,kafka,hadoop,aws,gcp,azure,docker,kubernetes&theme=dark" /> | <img src="https://skillicons.dev/icons?i=linux,git,bash,vscode,jupyter,github&theme=dark" /> |
 
 </div>
 
 ---
 
-### 🎯 Roadmap 2026 | مسیر یادگیری
-
-<div align="center">
+### 🎯 Roadmap 2026
 
 | Skill / مهارت | Progress | Level / سطح |
 | :--- | :--- | :--- |
 | **Apache Spark / اسپارک** | `██████████ 95%` | Expert / حرفه ای |
-| **Docker & Kubernetes / داکر و کوبرنتیز** | `████████░░ 80%` | Advanced / پیشرفته |
+| **Docker & Kubernetes** | `████████░░ 80%` | Advanced / پیشرفته |
 | **Data Modeling / مدلسازی داده** | `███████░░░ 75%` | Advanced / پیشرفته |
 | **Cloud Architecture / معماری ابری** | `███████░░░ 70%` | Advanced / پیشرفته |
 | **Apache Kafka / کافکا** | `██████░░░░ 60%` | Intermediate / متوسط |
-| **LLMOps & Data for AI / هوش مصنوعی** | `████░░░░░░ 40%` | Learning / در حال یادگیری |
-
-</div>
+| **LLMOps & Data for AI** | `████░░░░░░ 40%` | Learning / در حال یادگیری |
 
 ---
-### 🌐 Let's Connect | راه های ارتباطی
+### 🌐 Let's Connect
 
 <div align="center">
 
 ### Got a cool data idea? Let's build it together!
-### یه ایده باحال داری؟ بیا با هم بسازیمش!
 
-<br>
-
-<a href="https://t.me/dana_ghazizadah">
-  <img src="https://img.shields.io/badge/Telegram-@dana__ghazizadah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UC3eADgzdY2b4tp4wb62_xbg">
-  <img src="https://img.shields.io/badge/YouTube-Dana_Ghazizadah-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://www.tiktok.com/@dana_ghazizadah">
-  <img src="https://img.shields.io/badge/TikTok-@dana__ghazizadah-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
+<a href="https://t.me/dana_ghazizadah"><img src="https://img.shields.io/badge/Telegram-@dana__ghazizadah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UC3eADgzdY2b4tp4wb62_xbg"><img src="https://img.shields.io/badge/YouTube-Dana_Ghazizadah-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@dana_ghazizadah"><img src="https://img.shields.io/badge/TikTok-@dana__ghazizadah-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 
 <br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6A5ACD&height=120&section=footer" />
-
 </div>
