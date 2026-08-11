@@ -1,11 +1,9 @@
 <!-- Dana Ghazizadah | دانا قاضی زاده | Data Engineer 2026 -->
-<!-- Profile README - Final Stable Version - No Rate Limit -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6A5ACD&height=260&section=header&text=Dana%20Ghazizadah&fontSize=60&fontColor=fff&fontAlignY=35&desc=Data%20Engineer%20%7C%20مهندس%20داده%20-%20Real-Time%20Pipelines&descAlignY=60&descSize=17&animation=fadeIn" />
 </div>
 
-<!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dana-ghazizadah&label=Profile%20Views&style=flat-square&color=8B5CF6" />
   <img src="https://img.shields.io/github/followers/Dana-ghazizadah?label=Followers&style=flat-square&color=8B5CF6" />
@@ -16,7 +14,7 @@
 
 ---
 
-### 👨‍💻 About Me | درباره من
+### 👨💻 About Me | درباره من
 
 <table>
 <tr>
@@ -29,7 +27,7 @@ I am passionate about turning chaotic data into **scalable, fault-tolerant syste
 
 **What I Do:**
 - ⚡ Designing **ETL / ELT Pipelines** that never fail
-- ☁️ Building **Cloud-Native** architectures on AWS / GCP / Azure
+- ☁ Building **Cloud-Native** architectures on AWS / GCP / Azure
 - 📊 Real-time **Big Data Processing** with Spark & Kafka
 - 🔧 Automating everything with Docker & Kubernetes
 
@@ -42,20 +40,20 @@ I am currently **open to internships, freelance projects, and open-source collab
 <td width="50%" valign="top" dir="rtl">
 
 #### 🇮🇷 فارسی
-من **دانا قاضی‌زاده** هستم، دانشجوی مهندسی کامپیوتر دانشگاه آزاد شیراز.
+من **دانا قاضیزاده** هستم، دانشجوی مهندسی کامپیوتر دانشگاه آزاد شیراز.
 
-عاشق تبدیل داده‌های بهم‌ریخته به **سیستم‌های مقیاس‌پذیر و بدون خطا** هستم.
+عاشق تبدیل داده های بهم ریخته به **سیستم های مقیاس پذیر و بدون خطا** هستم.
 
 **تخصص من:**
-- ⚡ طراحی پایپ‌لاین‌های **ETL / ELT** که هیچوقت از کار نمی‌افتند
-- ☁️ ساخت معماری‌های **ابری** روی AWS / GCP / Azure
-- 📊 پردازش **کلان‌داده** به صورت Real-time با Spark و Kafka
+- ⚡ طراحی پایپلاین های **ETL / ELT** که هیچوقت از کار نمیافتند
+- ☁ ساخت معماری های **ابری** روی AWS / GCP / Azure
+- 📊 پردازش **کلان داده** به صورت Real-time با Spark و Kafka
 - 🔧 خودکارسازی همه چیز با Docker و Kubernetes
 
 **ماموریت ۲۰۲۶:**
-> ساخت پلتفرم‌هایی که میلیون‌ها رکورد را در ثانیه و بدون قطعی پردازش کنند.
+> ساخت پلتفرم هایی که میلیون ها رکورد را در ثانیه و بدون قطعی پردازش کنند.
 
-در حال حاضر **آماده کارآموزی، انجام پروژه‌های فریلنسری و همکاری در پروژه‌های متن‌باز هستم.**
+در حال حاضر **آماده کارآموزی، انجام پروژه های فریلنسری و همکاری در پروژه های متن باز هستم.**
 
 </td>
 </tr>
@@ -67,16 +65,16 @@ I am currently **open to internships, freelance projects, and open-source collab
 
 <div align="center">
 
-| 🔧 Data Pipelines | ☁️ Cloud Native | 📊 Big Data Processing |
+| 🔧 Data Pipelines | ☁ Cloud Native | 📊 Big Data Processing |
 | :---: | :---: | :---: |
 | Building fault-tolerant ETL/ELT | Deploying scalable systems with Docker & K8s | Real-time analytics with Spark & Kafka |
-| طراحی پایپ‌لاین‌های بدون خطا | دیپلوی سیستم‌های مقیاس‌پذیر | پردازش لحظه‌ای داده‌های حجیم |
+| طراحی پایپلاین های بدون خطا | دیپلوی سیستم های مقیاس پذیر | پردازش لحظه ای داده های حجیم |
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack | تکنولوژی‌ها
+### 🛠 Tech Stack | تکنولوژی ها
 
 <div align="center">
 
@@ -86,7 +84,7 @@ I am currently **open to internships, freelance projects, and open-source collab
 
 **Languages & Databases**
 <br>
-*زبان‌ها و دیتابیس*
+*زبان ها و دیتابیس*
 <br><br>
 <img src="https://skillicons.dev/icons?i=python,sql,postgres,mysql,mongodb,redis&theme=dark" />
 
@@ -95,7 +93,7 @@ I am currently **open to internships, freelance projects, and open-source collab
 
 **Big Data & Cloud & DevOps**
 <br>
-*کلان‌داده و کلاد*
+*کلان داده و کلاد*
 <br><br>
 <img src="https://skillicons.dev/icons?i=spark,kafka,hadoop,aws,gcp,azure,docker,kubernetes&theme=dark" />
 
@@ -122,7 +120,7 @@ I am currently **open to internships, freelance projects, and open-source collab
 
 | Skill / مهارت | Progress | Level / سطح |
 | :--- | :--- | :--- |
-| **Apache Spark / اسپارک** | `██████████ 95%` | Expert / حرفه‌ای |
+| **Apache Spark / اسپارک** | `██████████ 95%` | Expert / حرفه ای |
 | **Docker & Kubernetes / داکر و کوبرنتیز** | `████████░░ 80%` | Advanced / پیشرفته |
 | **Data Modeling / مدلسازی داده** | `███████░░░ 75%` | Advanced / پیشرفته |
 | **Cloud Architecture / معماری ابری** | `███████░░░ 70%` | Advanced / پیشرفته |
@@ -132,7 +130,7 @@ I am currently **open to internships, freelance projects, and open-source collab
 </div>
 
 ---
-### 🌐 Let's Connect | راه‌های ارتباطی
+### 🌐 Let's Connect | راه های ارتباطی
 
 <div align="center">
 
