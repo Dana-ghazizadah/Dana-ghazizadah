@@ -81,6 +81,36 @@ I am currently **open to internships, freelance projects, and open-source collab
 | **LLMOps & Data for AI** | `████░░░░░░ 40%` | Learning / در حال یادگیری |
 
 ---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dana-ghazizadah&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=8B5CF6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dana-ghazizadah&layout=compact&theme=midnight-purple&border_color=8B5CF6" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dana-ghazizadah&theme=midnight-purple&border=8B5CF6&background=0D1117" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects | پروژه های شاخص
+
+<div align="center">
+
+| Project | Description | Tech |
+| :---: | :--- | :---: |
+| [**Data-Structure**](https://github.com/Dana-ghazizadah/Data-Structure) | پیاده سازی ساختمان داده های پایه با پایتون | `Python` |
+| **Coming Soon** | Real-Time Streaming Pipeline with Kafka & Spark | `Kafka` `Spark` |
+| **Coming Soon** | Cloud ETL Pipeline on AWS | `AWS` `Airflow` |
+
+</div>
+
+---
+
 ### 🌐 Let's Connect
 
 <div align="center">
@@ -90,7 +120,9 @@ I am currently **open to internships, freelance projects, and open-source collab
 <a href="https://t.me/dana_ghazizadah"><img src="https://img.shields.io/badge/Telegram-@dana__ghazizadah-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UC3eADgzdY2b4tp4wb62_xbg"><img src="https://img.shields.io/badge/YouTube-Dana_Ghazizadah-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.tiktok.com/@dana_ghazizadah"><img src="https://img.shields.io/badge/TikTok-@dana__ghazizadah-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dana-ghazizadah"><img src="https://img.shields.io/badge/LinkedIn-Dana_Ghazizadah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6A5ACD&height=120&section=footer" />
 </div>
