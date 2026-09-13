@@ -4,7 +4,6 @@
 
 [![Followers](https://img.shields.io/github/followers/Dana-ghazizadah?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github)](https://github.com/Dana-ghazizadah?tab=followers)
 ![Views](https://komarev.com/ghpvc/?username=Dana-ghazizadah&label=Views&style=for-the-badge&color=8B5CF6)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Collab-22C55E?style=for-the-badge&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/Location-Shiraz%20🇮🇷-8B5CF6?style=for-the-badge&labelColor=0D1117)
 
 ---
