@@ -1,53 +1,75 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           DANA GHAZIZADEH · DATA ENGINEER · PORTFOLIO            -->
-<!--               Design v2.0 · Card-Based · Bug-Free                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--           DANA GHAZIZADEH · COMPUTER ENGINEERING STUDENT             -->
+<!--              Aspiring Data Engineer · Learning in Public             -->
+<!--                  Design v4.0 · Modular · Bug-Free                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6A5ACD,100:4C1D95&height=240&section=header&text=Dana%20Ghazizadeh&fontSize=52&fontColor=ffffff&desc=Data%20Engineer%20%E2%80%A2%20Real-Time%20Pipelines%20%E2%80%A2%20Cloud&descAlignY=65&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6A5ACD,100:4C1D95&height=230&section=header&text=Dana%20Ghazizadeh&fontSize=54&fontColor=ffffff&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Aspiring%20Data%20Engineer&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/Dana-ghazizadah">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Turning+Chaos+into+Scalable+Systems;Real-Time+Data+Engineering;Zero+Downtime+%E2%80%A2+Millions+of+Records%2FSec;Building+the+Future+of+Data" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&lines=Learning+Data+Engineering+Every+Day;Building+Projects+%E2%80%A2+Sharing+Knowledge;Exploring+Spark%2C+Kafka+%26+Cloud;Student+Today+%E2%80%A2+Engineer+Tomorrow" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Dana-ghazizadah?tab=followers">
-<img src="https://img.shields.io/github/followers/Dana-ghazizadah?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/Dana-ghazizadah?tab=repositories">
-<img src="https://img.shields.io/github/stars/Dana-ghazizadah?label=Stars&style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Dana-ghazizadah&label=Views&style=for-the-badge&color=8B5CF6" />
+<img src="https://komarev.com/ghpvc/?username=Dana-ghazizadah&label=Profile%20Views&style=for-the-badge&color=8B5CF6" />
 <img src="https://img.shields.io/badge/Shiraz-Iran-8B5CF6?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Student-8B5CF6?style=for-the-badge&labelColor=0D1117&logo=bookstack&logoColor=white" />
 
 </div>
 
 <br/>
 
-<!-- ══════════════════ DASHBOARD ══════════════════ -->
+<!-- ═══════════════════ DASHBOARD ═══════════════════ -->
 
 <div align="center">
 
-### ⚡ Performance Dashboard
+### ⚡ Student Dashboard · داشبورد دانشجویی
 
-<img src="https://img.shields.io/badge/SUCCESS-79%25-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/DIVERSITY-78%2F100-6A5ACD?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/UPTIME-99.9%25-4C1D95?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/COMMITS-1.2K%2B-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/STATUS-Student-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<b>وضعیت: دانشجو</b>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/LEARNING-Active-6A5ACD?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<b>یادگیری: فعال</b>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/OPEN_TO-Internship-4C1D95?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<b>آماده: کارآموزی</b>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/PROJECTS-Building-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<br/>
+<b>پروژه‌ها: در حال ساخت</b>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
 
-<!-- ══════════════════ ABOUT ══════════════════ -->
-
-## <img src="https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB_About_Me-8B5CF6?style=flat-square&labelColor=0D1117" /> 
+## <img src="https://img.shields.io/badge/-About%20Me%20%C2%B7%20%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87%20%D9%85%D9%86-8B5CF6?style=flat-square&labelColor=0D1117&logo=aboutdotme&logoColor=white" />
 
 <table>
 <tr>
@@ -57,15 +79,15 @@
 
 **Hi, I'm Dana** — Computer Engineering student at **IAU Shiraz**.
 
-I turn messy data into **scalable, fault-tolerant systems**.
+I'm passionate about **data engineering** and currently learning to build **scalable, fault-tolerant systems**.
 
-- ⚡ **ETL / ELT** pipelines that never fail
-- ☁️ **Cloud-native** on AWS · GCP · Azure
-- 📊 **Real-time** processing with Spark & Kafka
-- 🔧 **Automation** with Docker & Kubernetes
-- 🎯 **Mission 2026:** 1M+ records/sec, zero downtime
+- 📚 **Learning** ETL / ELT pipelines
+- ☁️ **Exploring** cloud platforms (AWS · GCP · Azure)
+- 📊 **Practicing** real-time processing with Spark & Kafka
+- 🔧 **Experimenting** with Docker & Kubernetes
+- 🎯 **Goal:** Become a Data Engineer by 2026
 
-**Open to:** Internships · Freelance · Open-source
+**Open to:** Internships · Learning · Open-source
 
 </td>
 <td width="50%" valign="top">
@@ -74,25 +96,25 @@ I turn messy data into **scalable, fault-tolerant systems**.
 
 **سلام، من دانا هستم** — دانشجوی مهندسی کامپیوتر دانشگاه آزاد شیراز.
 
-داده‌های به‌هم‌ریخته را به **سیستم‌های مقیاس‌پذیر و بدون خطا** تبدیل می‌کنم.
+به **مهندسی داده** علاقه دارم و در حال یادگیری ساخت **سیستم‌های مقیاس‌پذیر و بدون خطا** هستم.
 
-- ⚡ پایپ‌لاین‌های **ETL / ELT** بدون قطعی
-- ☁️ معماری‌های **ابری** روی AWS · GCP · Azure
-- 📊 پردازش **Real-time** با Spark و Kafka
-- 🔧 **خودکارسازی** با Docker و Kubernetes
-- 🎯 **ماموریت ۲۰۲۶:** میلیون رکورد در ثانیه
+- 📚 **در حال یادگیری** پایپ‌لاین‌های ETL / ELT
+- ☁️ **در حال کاوش** پلتفرم‌های ابری (AWS · GCP · Azure)
+- 📊 **در حال تمرین** پردازش Real-time با Spark و Kafka
+- 🔧 **در حال آزمایش** با Docker و Kubernetes
+- 🎯 **هدف:** مهندس داده شدن تا ۲۰۲۶
 
-**آماده همکاری:** کارآموزی · فریلنس · متن‌باز
+**آماده همکاری:** کارآموزی · یادگیری · متن‌باز
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
-<!-- ══════════════════ EDUCATION ══════════════════ -->
+<!-- ═══════════════════ EDUCATION ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%F0%9F%8E%93_Education-8B5CF6?style=flat-square&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-Education%20%C2%B7%20%D8%AA%D8%AD%D8%B5%DB%8C%D9%84%D8%A7%D8%AA-8B5CF6?style=flat-square&labelColor=0D1117&logo=googlescholar&logoColor=white" />
 
 <table align="center">
 <tr>
@@ -119,138 +141,146 @@ Islamic Azad University
 ### 🎯
 **Focus Areas**
 Data Engineering
-Cloud Architecture
+Cloud Fundamentals
 Real-Time Systems
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
-<!-- ══════════════════ TECH STACK ══════════════════ -->
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%F0%9F%9B%A0%EF%B8%8F_Tech_Stack-8B5CF6?style=flat-square&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-Tech%20Stack%20%C2%B7%20%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C%E2%80%8C%D9%87%D8%A7-8B5CF6?style=flat-square&labelColor=0D1117&logo=stackshare&logoColor=white" />
 
 <div align="center">
 
-**💻 Languages & Databases**
+**💻 Languages & Databases · زبان‌ها و پایگاه‌های داده**
 
-<img src="https://skillicons.dev/icons?i=python,sql,postgres,mysql,mongodb,redis,cpp&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,sql,postgres,mysql,mongodb,cpp&theme=dark&perline=6" />
 
 <br/>
 
-**☁️ Big Data, Cloud & DevOps**
+**☁️ Big Data, Cloud & DevOps · کلان‌داده، ابر و دواپس**
 
 <img src="https://skillicons.dev/icons?i=spark,kafka,hadoop,aws,gcp,azure,docker,kubernetes&theme=dark&perline=8" />
 
 <br/>
 
-**🔧 Tools & OS**
+**🔧 Tools & OS · ابزارها و سیستم‌عامل**
 
-<img src="https://skillicons.dev/icons?i=linux,git,bash,vscode,jupyter,github,grafana&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=linux,git,bash,vscode,jupyter,github&theme=dark&perline=6" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
-<!-- ══════════════════ ROADMAP ══════════════════ -->
+<!-- ═══════════════════ ROADMAP ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%F0%9F%8E%AF_Roadmap_2026-8B5CF6?style=flat-square&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-Roadmap%202026%20%C2%B7%20%D9%86%D9%82%D8%B4%D9%87%20%D8%B1%D8%A7%D9%87-8B5CF6?style=flat-square&labelColor=0D1117&logo=roadmapdotsh&logoColor=white" />
 
 <div align="center">
 
-| 🎯 Skill | 📈 Progress | 🏆 Level |
+| 🎯 Skill · مهارت | 📈 Progress · پیشرفت | 🏆 Level · سطح |
 | :--- | :---: | :---: |
-| **Apache Spark** | ![](https://geps.dev/progress/95?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Expert |
-| **Docker & Kubernetes** | ![](https://geps.dev/progress/80?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Advanced |
-| **Data Modeling** | ![](https://geps.dev/progress/75?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Advanced |
-| **Cloud Architecture** | ![](https://geps.dev/progress/70?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Advanced |
-| **Apache Kafka** | ![](https://geps.dev/progress/60?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Intermediate |
-| **LLMOps & Data for AI** | ![](https://geps.dev/progress/40?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Learning |
+| **Python & SQL** | ![](https://geps.dev/progress/85?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Intermediate · متوسط |
+| **Data Structures** | ![](https://geps.dev/progress/75?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Intermediate · متوسط |
+| **Apache Spark** | ![](https://geps.dev/progress/60?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Learning · در حال یادگیری |
+| **Docker & Kubernetes** | ![](https://geps.dev/progress/50?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Learning · در حال یادگیری |
+| **Apache Kafka** | ![](https://geps.dev/progress/45?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Learning · در حال یادگیری |
+| **Cloud (AWS / GCP)** | ![](https://geps.dev/progress/40?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | 🟣 Learning · در حال یادگیری |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
-<!-- ══════════════════ PROJECTS SUCCESS ══════════════════ -->
+<!-- ═══════════════════ LATEST PROJECTS (AUTO) ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%F0%9F%93%8A_Project_Success-8B5CF6?style=flat-square&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-Latest%20Projects%20%C2%B7%20%D8%A2%D8%AE%D8%B1%DB%8C%D9%86%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%E2%80%8C%D9%87%D8%A7-8B5CF6?style=flat-square&labelColor=0D1117&logo=github&logoColor=white" />
 
 <div align="center">
 
+### 🇬🇧 Automatically updated with my newest repositories
+### 🇮🇷 به‌صورت خودکار با جدیدترین ریپازیتوری‌های من به‌روز می‌شود
+
+<br/>
+
+<a href="https://github.com/Dana-ghazizadah/Data-Structure">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dana-ghazizadah&repo=Data-Structure&theme=midnight-purple&border_color=8B5CF6&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff" />
+</a>
+<a href="https://github.com/Dana-ghazizadah?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dana-ghazizadah&repo=Data-Structure&theme=midnight-purple&border_color=8B5CF6&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Dana-ghazizadah?tab=repositories">
+<img src="https://img.shields.io/badge/🔍_View_All_Repositories-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+</a>
+
+</div>
+
+> ⚙️ **Note · نکته:** برای نمایش خودکار پروژه‌های جدید، اون‌ها رو در GitHub **Pin** کن. این بخش به‌صورت خودکار آخرین پروژه‌های پین‌شده رو نشون می‌ده.
+
+<br/>
+
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+
+## <img src="https://img.shields.io/badge/-Featured%20Projects%20%C2%B7%20%D9%BE%D8%B1%D9%88%DA%98%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%B4%D8%A7%D8%AE%D8%B5-8B5CF6?style=flat-square&labelColor=0D1117&logo=opensourceinitiative&logoColor=white" />
+
 <table>
 <tr>
-<th>🚀 Project</th>
-<th>📊 Success</th>
-<th>🎯 Status</th>
-<th>⚙️ Tech</th>
+<td width="50%" valign="top">
+
+### 📂 Data Structure Repository
+پیاده‌سازی ساختار داده‌ها به‌صورت تمرینی
+
+[![Repo](https://img.shields.io/badge/View_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dana-ghazizadah/Data-Structure)
+
+**Tech:** `Python` `C++`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 Real-Time Streaming Pipeline
+پروژه یادگیری Kafka + Spark Streaming
+
+![Building](https://img.shields.io/badge/Learning_Project-6A5ACD?style=for-the-badge)
+
+**Tech:** `Kafka` `Spark` `Python`
+
+</td>
 </tr>
 <tr>
-<td><b>Real-Time Streaming</b></td>
-<td><img src="https://geps.dev/progress/92?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6"/></td>
-<td>🟢 Production</td>
-<td>Kafka · Spark</td>
-</tr>
-<tr>
-<td><b>Cloud ETL on AWS</b></td>
-<td><img src="https://geps.dev/progress/88?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6"/></td>
-<td>🟢 Production</td>
-<td>AWS · Airflow</td>
-</tr>
-<tr>
-<td><b>Data Structure Repo</b></td>
-<td><img src="https://geps.dev/progress/100?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6"/></td>
-<td>🟢 Completed</td>
-<td>Python · C++</td>
-</tr>
-<tr>
-<td><b>LLMOps Pipeline</b></td>
-<td><img src="https://geps.dev/progress/45?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6"/></td>
-<td>🟡 In Progress</td>
-<td>LangChain</td>
-</tr>
-<tr>
-<td><b>K8s Data Platform</b></td>
-<td><img src="https://geps.dev/progress/70?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6"/></td>
-<td>🟡 In Progress</td>
-<td>K8s · Helm</td>
+<td width="50%" valign="top">
+
+### 🚧 Cloud ETL Practice
+تمرین ETL روی AWS با Airflow
+
+![Building](https://img.shields.io/badge/Learning_Project-6A5ACD?style=for-the-badge)
+
+**Tech:** `AWS` `Airflow` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 Kubernetes Learning Lab
+آزمایشگاه یادگیری K8s و Helm
+
+![Building](https://img.shields.io/badge/Learning_Project-6A5ACD?style=for-the-badge)
+
+**Tech:** `K8s` `Helm` `Kafka`
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-**⚡ Average Success Rate:** `79%`
+<!-- ═══════════════════ CERTIFICATIONS ═══════════════════ -->
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ══════════════════ DIVERSITY ══════════════════ -->
-
-## <img src="https://img.shields.io/badge/-%F0%9F%A7%AC_Skill_Diversity-8B5CF6?style=flat-square&labelColor=0D1117" />
-
-<div align="center">
-
-| 🌐 Domain | 📈 Coverage | 🛠 Tools |
-| :--- | :---: | :--- |
-| **Data Engineering** | ![](https://geps.dev/progress/95?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | Spark · Kafka · Airflow |
-| **Cloud & DevOps** | ![](https://geps.dev/progress/80?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | AWS · GCP · Azure · K8s |
-| **Databases** | ![](https://geps.dev/progress/85?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | PostgreSQL · MongoDB · Redis |
-| **Programming** | ![](https://geps.dev/progress/90?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | Python · SQL · Bash · C++ |
-| **AI / LLMOps** | ![](https://geps.dev/progress/40?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | LangChain · Vector DB |
-
-<br/>
-
-**🎯 Diversity Score:** `78/100`
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ══════════════════ RELIABILITY ══════════════════ -->
-
-## <img src="https://img.shields.io/badge/-%F0%9F%9B%A1_Reliability-8B5CF6?style=flat-square&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-Certifications%20%C2%B7%20%DA%AF%D9%88%D8%A7%D9%87%DB%8C%E2%80%8C%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%87%D8%A7-8B5CF6?style=flat-square&labelColor=0D1117&logo=coursera&logoColor=white" />
 
 <div align="center">
 
@@ -258,30 +288,38 @@ Real-Time Systems
 <tr>
 <td align="center" width="25%">
 
-### ⏱️
-**99.9%**
-Uptime
+<img src="https://img.shields.io/badge/PYTHON-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
+<br/>
+<b>Python Fundamentals</b>
+<br/>
+🟢 Completed · تکمیل‌شده
 
 </td>
 <td align="center" width="25%">
 
-### 🐛
-**< 0.1%**
-Error Rate
+<img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br/>
+<b>SQL & Databases</b>
+<br/>
+🟢 Completed · تکمیل‌شده
 
 </td>
 <td align="center" width="25%">
 
-### ✅
-**99.7%**
-Accuracy
+<img src="https://img.shields.io/badge/SPARK-8B5CF6?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<br/>
+<b>Spark Basics</b>
+<br/>
+🟡 In Progress · در حال یادگیری
 
 </td>
 <td align="center" width="25%">
 
-### ⚡
-**< 30s**
-Recovery
+<img src="https://img.shields.io/badge/AWS-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br/>
+<b>Cloud Practitioner</b>
+<br/>
+🟡 In Progress · در حال یادگیری
 
 </td>
 </tr>
@@ -289,11 +327,11 @@ Recovery
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
-<!-- ══════════════════ ANALYTICS ══════════════════ -->
+<!-- ═══════════════════ ANALYTICS ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%F0%9F%93%88_Analytics-8B5CF6?style=flat-square&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-Analytics%20%C2%B7%20%D8%A2%D9%85%D8%A7%D8%B1%20%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-8B5CF6?style=flat-square&labelColor=0D1117&logo=githubactions&logoColor=white" />
 
 <div align="center">
 
@@ -306,146 +344,53 @@ Recovery
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
-<!-- ══════════════════ CERTIFICATIONS ══════════════════ -->
+<!-- ═══════════════════ SKILLS GROWTH ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%F0%9F%8F%86_Certifications-8B5CF6?style=flat-square&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-Skill%20Growth%20%C2%B7%20%D8%B1%D8%B4%D8%AF%20%D9%85%D9%87%D8%A7%D8%B1%D8%AA%E2%80%8C%D9%87%D8%A7-8B5CF6?style=flat-square&labelColor=0D1117&logo=spring&logoColor=white" />
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
+| 🌐 Domain · حوزه | 📈 Level · سطح | 🛠 Tools · ابزارها |
+| :--- | :---: | :--- |
+| **Programming** | ![](https://geps.dev/progress/85?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | Python · SQL · C++ |
+| **Databases** | ![](https://geps.dev/progress/75?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | PostgreSQL · MongoDB |
+| **Data Engineering** | ![](https://geps.dev/progress/55?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | Spark · Kafka · Airflow |
+| **Cloud & DevOps** | ![](https://geps.dev/progress/45?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | AWS · Docker · K8s |
+| **AI / LLMOps** | ![](https://geps.dev/progress/25?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6) | LangChain · Vector DB |
 
-<img src="https://img.shields.io/badge/AWS-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <br/>
-<b>Cloud Practitioner</b>
-<br/>
-🟡 In Progress
 
-</td>
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/SPARK-8B5CF6?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<br/>
-<b>Spark Developer</b>
-<br/>
-🟢 Completed
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/DOCKER-8B5CF6?style=for-the-badge&logo=docker&logoColor=white"/>
-<br/>
-<b>Docker & K8s</b>
-<br/>
-🟢 Completed
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/COURSERA-8B5CF6?style=for-the-badge&logo=coursera&logoColor=white"/>
-<br/>
-<b>Data Engineering</b>
-<br/>
-🟢 Completed
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/LLMOps-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-<br/>
-<b>LLMOps Spec</b>
-<br/>
-🟡 In Progress
-
-</td>
-</tr>
-</table>
+**📚 Learning Progress · پیشرفت یادگیری:** `57/100` — growing every day · هر روز در حال رشد
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
-<!-- ══════════════════ PROJECTS ══════════════════ -->
+<!-- ═══════════════════ GOALS ═══════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%F0%9F%9A%80_Featured_Projects-8B5CF6?style=flat-square&labelColor=0D1117" />
+## <img src="https://img.shields.io/badge/-2026%20Goals%20%C2%B7%20%D8%A7%D9%87%D8%AF%D8%A7%D9%81-8B5CF6?style=flat-square&labelColor=0D1117&logo=target&logoColor=white" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📂 Data Structure Repository
-پیاده‌سازی کامل ساختار داده‌ها
-
-[![Repo](https://img.shields.io/badge/View_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dana-ghazizadah/Data-Structure)
-
-**Tech:** `Python` `C++`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚧 Real-Time Streaming Pipeline
-Kafka + Spark Streaming
-
-![Coming](https://img.shields.io/badge/Coming_Soon-6A5ACD?style=for-the-badge)
-
-**Tech:** `Kafka` `Spark` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚧 Cloud ETL on AWS
-AWS + Airflow + Docker
-
-![Coming](https://img.shields.io/badge/Coming_Soon-6A5ACD?style=for-the-badge)
-
-**Tech:** `AWS` `Airflow` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚧 Kubernetes Data Platform
-K8s + Helm + Kafka
-
-![Coming](https://img.shields.io/badge/Coming_Soon-6A5ACD?style=for-the-badge)
-
-**Tech:** `K8s` `Helm` `Kafka`
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ══════════════════ GOALS ══════════════════ -->
-
-## <img src="https://img.shields.io/badge/-%F0%9F%8E%AF_2026_Goals-8B5CF6?style=flat-square&labelColor=0D1117" />
-
-- [x] 🟣 Master Apache Spark & Kafka
-- [x] 🟣 Build production-grade ETL pipelines
-- [ ] ⚪ Achieve AWS Solutions Architect certification
-- [ ] ⚪ Publish open-source Data Engineering toolkit
-- [ ] ⚪ Reach 1,000 GitHub followers
-- [ ] ⚪ Contribute to 10+ open-source projects
-- [ ] ⚪ Build real-time platform · 1M+ records/sec
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ══════════════════ CONNECT ══════════════════ -->
-
-<div align="center">
-
-## <img src="https://img.shields.io/badge/-%F0%9F%8C%90_Connect-8B5CF6?style=flat-square&labelColor=0D1117" />
+- [x] 🟣 Learn Python & SQL fundamentals
+- [x] 🟣 Build first data structure projects
+- [ ] ⚪ Master Apache Spark & Kafka
+- [ ] ⚪ Complete AWS Cloud Practitioner certification
+- [ ] ⚪ Build first production-grade ETL pipeline
+- [ ] ⚪ Land a Data Engineering internship
+- [ ] ⚪ Contribute to open-source data projects
+- [ ] ⚪ Reach 500 GitHub followers
 
 <br/>
 
-<a href="https://github.com/Dana-ghazizadah">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+
+<div align="center">
+
+## <img src="https://img.shields.io/badge/-Connect%20%C2%B7%20%D8%B1%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%DB%8C-8B5CF6?style=flat-square&labelColor=0D1117&logo=linktree&logoColor=white" />
+
+<br/>
+
 <a href="https://t.me/dana_ghazizadah">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -455,13 +400,13 @@ K8s + Helm + Kafka
 <a href="https://www.tiktok.com/@dana_ghazizadah">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/dana-ghazizadah">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/Dana-ghazizadah">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 💬 *"Data is the new oil — but only if you refine it."*
+### 💬 *"Every expert was once a beginner — I'm just getting started."*
 
 **— Dana Ghazizadeh**
 
@@ -475,8 +420,8 @@ K8s + Helm + Kafka
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6A5ACD,100:8B5CF6&height=140&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6A5ACD,100:8B5CF6&height=140&section=footer&text=Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Growing&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                Made with 💜 by Dana Ghazizadeh                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                Made with 💜 by Dana Ghazizadeh                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
